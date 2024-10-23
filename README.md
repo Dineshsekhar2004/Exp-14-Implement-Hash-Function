@@ -53,8 +53,8 @@ int main() {
     return 0;
 }
 ```
-## OUTPUT:
-![Uploading Screenshot (140).png…]()
+## OUTPUT:![Screenshot (140)](https://github.com/user-attachments/assets/80a49e02-d2b3-4e6b-b0a1-acd9d04870e4)
+
 
 
 ## RESULT:
