@@ -54,7 +54,8 @@ int main() {
 }
 ```
 ## OUTPUT:
-![image](https://github.com/user-attachments/assets/4d223c20-87ad-4f1e-a351-eaa1c2fdc1b5)
+![Uploading Screenshot (140).png…]()
+
 
 ## RESULT:
 Thus, the hash function has been successfully implemented in C.
